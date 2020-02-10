@@ -1,0 +1,10 @@
+/target/
+
+.classpath
+.project
+.settings
+
+/output/
+/src/test/
+input*
+output*
